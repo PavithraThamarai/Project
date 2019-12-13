@@ -15,6 +15,7 @@ public class Sample {
 		{
 			System.out.println(x);
 			System.out.println("hi");
+			System.out.println("done");
 		}
 	}
 }
